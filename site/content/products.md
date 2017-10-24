@@ -69,6 +69,8 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Pickle rick
+    quote: This is a nice testimonial
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -99,5 +101,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
